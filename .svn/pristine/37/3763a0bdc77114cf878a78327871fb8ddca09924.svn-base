@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{51AA152E-35E7-D172-86E5-4B970B8CD185}") = "Venous Blood UI For Unity5.3.4", "Assembly-CSharp.csproj", "{444F7F83-011B-5201-013C-42BC5D86A7DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444F7F83-011B-5201-013C-42BC5D86A7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444F7F83-011B-5201-013C-42BC5D86A7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444F7F83-011B-5201-013C-42BC5D86A7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444F7F83-011B-5201-013C-42BC5D86A7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

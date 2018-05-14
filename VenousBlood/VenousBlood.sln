@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenousBlood.Plugins", "VenousBlood.Plugins.csproj", "{4F5F7FFA-67DE-D0E4-57E0-A9BA88D74382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenousBlood", "VenousBlood.csproj", "{4C5B9FE0-3D89-8320-38F5-31AB627C1F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5F7FFA-67DE-D0E4-57E0-A9BA88D74382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5F7FFA-67DE-D0E4-57E0-A9BA88D74382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5F7FFA-67DE-D0E4-57E0-A9BA88D74382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5F7FFA-67DE-D0E4-57E0-A9BA88D74382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5B9FE0-3D89-8320-38F5-31AB627C1F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5B9FE0-3D89-8320-38F5-31AB627C1F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5B9FE0-3D89-8320-38F5-31AB627C1F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5B9FE0-3D89-8320-38F5-31AB627C1F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

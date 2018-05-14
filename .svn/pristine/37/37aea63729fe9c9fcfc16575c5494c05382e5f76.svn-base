@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7CAE9D09-1389-7F1D-2149-6F880078D5AE}") = "VenousBlood", "Assembly-CSharp-firstpass.csproj", "{9078626C-8B77-EEFE-3781-73B13605F4F2}"
+EndProject
+Project("{7CAE9D09-1389-7F1D-2149-6F880078D5AE}") = "VenousBlood", "Assembly-CSharp.csproj", "{EC5EC5EB-996B-705A-E0C0-ECA6A1489469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9078626C-8B77-EEFE-3781-73B13605F4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9078626C-8B77-EEFE-3781-73B13605F4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9078626C-8B77-EEFE-3781-73B13605F4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9078626C-8B77-EEFE-3781-73B13605F4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5EC5EB-996B-705A-E0C0-ECA6A1489469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5EC5EB-996B-705A-E0C0-ECA6A1489469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5EC5EB-996B-705A-E0C0-ECA6A1489469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5EC5EB-996B-705A-E0C0-ECA6A1489469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

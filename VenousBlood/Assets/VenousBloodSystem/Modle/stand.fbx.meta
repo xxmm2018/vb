@@ -1,0 +1,3262 @@
+fileFormatVersion: 2
+guid: 0bbf152837d3d7d47a9b42484f4e4d68
+timeCreated: 1524552000
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: biaoqing
+    100006: boy
+    100008: Chest_M
+    100010: Cup_L
+    100012: Cup_R
+    100014: DeformationSystem
+    100016: Elbow_L
+    100018: Elbow_R
+    100020: ElbowPart1_L
+    100022: ElbowPart1_R
+    100024: ElbowPart2_L
+    100026: ElbowPart2_R
+    100028: Eye_L
+    100030: Eye_R
+    100032: EyeEnd_L
+    100034: EyeEnd_R
+    100036: face
+    100038: FKAimEye_L
+    100040: FKAimEye_R
+    100042: FKCup_L
+    100044: FKCup_R
+    100046: FKExtraCup_L
+    100048: FKExtraCup_R
+    100050: FKExtraEye_L
+    100052: FKExtraEye_R
+    100054: FKExtraHead_M
+    100056: FKExtraIndexFinger1_L
+    100058: FKExtraIndexFinger1_R
+    100060: FKExtraIndexFinger2_L
+    100062: FKExtraIndexFinger2_R
+    100064: FKExtraIndexFinger3_L
+    100066: FKExtraIndexFinger3_R
+    100068: FKExtraJaw_M
+    100070: FKExtraMiddleFinger1_L
+    100072: FKExtraMiddleFinger1_R
+    100074: FKExtraMiddleFinger2_L
+    100076: FKExtraMiddleFinger2_R
+    100078: FKExtraMiddleFinger3_L
+    100080: FKExtraMiddleFinger3_R
+    100082: FKExtraNeck_M
+    100084: FKExtraNeckPart1_M
+    100086: FKExtraNeckPart2_M
+    100088: FKExtraPinkyFinger1_L
+    100090: FKExtraPinkyFinger1_R
+    100092: FKExtraPinkyFinger2_L
+    100094: FKExtraPinkyFinger2_R
+    100096: FKExtraPinkyFinger3_L
+    100098: FKExtraPinkyFinger3_R
+    100100: FKExtraRingFinger1_L
+    100102: FKExtraRingFinger1_R
+    100104: FKExtraRingFinger2_L
+    100106: FKExtraRingFinger2_R
+    100108: FKExtraRingFinger3_L
+    100110: FKExtraRingFinger3_R
+    100112: FKExtraScapula_L
+    100114: FKExtraScapula_R
+    100116: FKExtraThumbFinger1_L
+    100118: FKExtraThumbFinger1_R
+    100120: FKExtraThumbFinger2_L
+    100122: FKExtraThumbFinger2_R
+    100124: FKExtraThumbFinger3_L
+    100126: FKExtraThumbFinger3_R
+    100128: FKEye_L
+    100130: FKEye_R
+    100132: FKGlobalHead_M
+    100134: FKGlobalStaticHead_M
+    100136: FKHead_M
+    100138: FKIndexFinger1_L
+    100140: FKIndexFinger1_R
+    100142: FKIndexFinger2_L
+    100144: FKIndexFinger2_R
+    100146: FKIndexFinger3_L
+    100148: FKIndexFinger3_R
+    100150: FKJaw_M
+    100152: FKMiddleFinger1_L
+    100154: FKMiddleFinger1_R
+    100156: FKMiddleFinger2_L
+    100158: FKMiddleFinger2_R
+    100160: FKMiddleFinger3_L
+    100162: FKMiddleFinger3_R
+    100164: FKNeck_M
+    100166: FKNeckPart1_M
+    100168: FKNeckPart2_M
+    100170: FKOffsetCup_L
+    100172: FKOffsetCup_R
+    100174: FKOffsetEye_L
+    100176: FKOffsetEye_R
+    100178: FKOffsetHead_M
+    100180: FKOffsetIndexFinger1_L
+    100182: FKOffsetIndexFinger1_R
+    100184: FKOffsetIndexFinger2_L
+    100186: FKOffsetIndexFinger2_R
+    100188: FKOffsetIndexFinger3_L
+    100190: FKOffsetIndexFinger3_R
+    100192: FKOffsetJaw_M
+    100194: FKOffsetMiddleFinger1_L
+    100196: FKOffsetMiddleFinger1_R
+    100198: FKOffsetMiddleFinger2_L
+    100200: FKOffsetMiddleFinger2_R
+    100202: FKOffsetMiddleFinger3_L
+    100204: FKOffsetMiddleFinger3_R
+    100206: FKOffsetNeck_M
+    100208: FKOffsetNeckPart1_M
+    100210: FKOffsetNeckPart2_M
+    100212: FKOffsetPinkyFinger1_L
+    100214: FKOffsetPinkyFinger1_R
+    100216: FKOffsetPinkyFinger2_L
+    100218: FKOffsetPinkyFinger2_R
+    100220: FKOffsetPinkyFinger3_L
+    100222: FKOffsetPinkyFinger3_R
+    100224: FKOffsetRingFinger1_L
+    100226: FKOffsetRingFinger1_R
+    100228: FKOffsetRingFinger2_L
+    100230: FKOffsetRingFinger2_R
+    100232: FKOffsetRingFinger3_L
+    100234: FKOffsetRingFinger3_R
+    100236: FKOffsetScapula_L
+    100238: FKOffsetScapula_R
+    100240: FKOffsetThumbFinger1_L
+    100242: FKOffsetThumbFinger1_R
+    100244: FKOffsetThumbFinger2_L
+    100246: FKOffsetThumbFinger2_R
+    100248: FKOffsetThumbFinger3_L
+    100250: FKOffsetThumbFinger3_R
+    100252: FKParentConstraintToChest_M
+    100254: FKParentConstraintToWrist_L
+    100256: FKParentConstraintToWrist_R
+    100258: FKPinkyFinger1_L
+    100260: FKPinkyFinger1_R
+    100262: FKPinkyFinger2_L
+    100264: FKPinkyFinger2_R
+    100266: FKPinkyFinger3_L
+    100268: FKPinkyFinger3_R
+    100270: FKRingFinger1_L
+    100272: FKRingFinger1_R
+    100274: FKRingFinger2_L
+    100276: FKRingFinger2_R
+    100278: FKRingFinger3_L
+    100280: FKRingFinger3_R
+    100282: FKScapula_L
+    100284: FKScapula_R
+    100286: FKSystem
+    100288: FKThumbFinger1_L
+    100290: FKThumbFinger1_R
+    100292: FKThumbFinger2_L
+    100294: FKThumbFinger2_R
+    100296: FKThumbFinger3_L
+    100298: FKThumbFinger3_R
+    100300: FKXCup_L
+    100302: FKXCup_R
+    100304: FKXHead_M
+    100306: FKXIndexFinger1_L
+    100308: FKXIndexFinger1_R
+    100310: FKXIndexFinger2_L
+    100312: FKXIndexFinger2_R
+    100314: FKXMiddleFinger1_L
+    100316: FKXMiddleFinger1_R
+    100318: FKXMiddleFinger2_L
+    100320: FKXMiddleFinger2_R
+    100322: FKXNeck_M
+    100324: FKXNeckPart1_M
+    100326: FKXNeckPart2_M
+    100328: FKXPinkyFinger1_L
+    100330: FKXPinkyFinger1_R
+    100332: FKXPinkyFinger2_L
+    100334: FKXPinkyFinger2_R
+    100336: FKXRingFinger1_L
+    100338: FKXRingFinger1_R
+    100340: FKXRingFinger2_L
+    100342: FKXRingFinger2_R
+    100344: FKXThumbFinger1_L
+    100346: FKXThumbFinger1_R
+    100348: FKXThumbFinger2_L
+    100350: FKXThumbFinger2_R
+    100352: Group
+    100354: hair
+    100356: Head_M
+    100358: HeadEnd_M
+    100360: Hip_L
+    100362: Hip_R
+    100364: HipPart1_L
+    100366: HipPart1_R
+    100368: HipPart2_L
+    100370: HipPart2_R
+    100372: IndexFinger1_L
+    100374: IndexFinger1_R
+    100376: IndexFinger2_L
+    100378: IndexFinger2_R
+    100380: IndexFinger3_L
+    100382: IndexFinger3_R
+    100384: IndexFinger4_L
+    100386: IndexFinger4_R
+    100388: Jaw_M
+    100390: JawEnd_M
+    100392: Knee_L
+    100394: Knee_R
+    100396: kouxing
+    100398: kuzi
+    100400: Main
+    100402: MiddleFinger1_L
+    100404: MiddleFinger1_R
+    100406: MiddleFinger2_L
+    100408: MiddleFinger2_R
+    100410: MiddleFinger3_L
+    100412: MiddleFinger3_R
+    100414: MiddleFinger4_L
+    100416: MiddleFinger4_R
+    100418: MotionSystem
+    100420: Neck_M
+    100422: NeckPart1_M
+    100424: NeckPart2_M
+    100426: neiyi
+    100428: pasted__kouxing
+    100430: PinkyFinger1_L
+    100432: PinkyFinger1_R
+    100434: PinkyFinger2_L
+    100436: PinkyFinger2_R
+    100438: PinkyFinger3_L
+    100440: PinkyFinger3_R
+    100442: PinkyFinger4_L
+    100444: PinkyFinger4_R
+    100446: RingFinger1_L
+    100448: RingFinger1_R
+    100450: RingFinger2_L
+    100452: RingFinger2_R
+    100454: RingFinger3_L
+    100456: RingFinger3_R
+    100458: RingFinger4_L
+    100460: RingFinger4_R
+    100462: Root_M
+    100464: RootPart1_M
+    100466: RootPart2_M
+    100468: Scapula_L
+    100470: Scapula_R
+    100472: SDK1FKCup_L
+    100474: SDK1FKCup_R
+    100476: SDK1FKIndexFinger1_L
+    100478: SDK1FKIndexFinger1_R
+    100480: SDK1FKIndexFinger2_L
+    100482: SDK1FKIndexFinger2_R
+    100484: SDK1FKIndexFinger3_L
+    100486: SDK1FKIndexFinger3_R
+    100488: SDK1FKMiddleFinger1_L
+    100490: SDK1FKMiddleFinger1_R
+    100492: SDK1FKMiddleFinger2_L
+    100494: SDK1FKMiddleFinger2_R
+    100496: SDK1FKMiddleFinger3_L
+    100498: SDK1FKMiddleFinger3_R
+    100500: SDK1FKPinkyFinger1_L
+    100502: SDK1FKPinkyFinger1_R
+    100504: SDK1FKPinkyFinger2_L
+    100506: SDK1FKPinkyFinger2_R
+    100508: SDK1FKPinkyFinger3_L
+    100510: SDK1FKPinkyFinger3_R
+    100512: SDK1FKRingFinger1_L
+    100514: SDK1FKRingFinger1_R
+    100516: SDK1FKRingFinger2_L
+    100518: SDK1FKRingFinger2_R
+    100520: SDK1FKRingFinger3_L
+    100522: SDK1FKRingFinger3_R
+    100524: SDK1FKThumbFinger2_L
+    100526: SDK1FKThumbFinger2_R
+    100528: SDK1FKThumbFinger3_L
+    100530: SDK1FKThumbFinger3_R
+    100532: SDK2FKIndexFinger1_L
+    100534: SDK2FKIndexFinger1_R
+    100536: SDK2FKPinkyFinger1_L
+    100538: SDK2FKPinkyFinger1_R
+    100540: SDK2FKRingFinger1_L
+    100542: SDK2FKRingFinger1_R
+    100544: shangyi
+    100546: shou
+    100548: Shoulder_L
+    100550: Shoulder_R
+    100552: ShoulderPart1_L
+    100554: ShoulderPart1_R
+    100556: ShoulderPart2_L
+    100558: ShoulderPart2_R
+    100560: Spine1_M
+    100562: Spine1Part1_M
+    100564: Spine1Part2_M
+    100566: //RootNode
+    100568: ThumbFinger1_L
+    100570: ThumbFinger1_R
+    100572: ThumbFinger2_L
+    100574: ThumbFinger2_R
+    100576: ThumbFinger3_L
+    100578: ThumbFinger3_R
+    100580: ThumbFinger4_L
+    100582: ThumbFinger4_R
+    100584: Toes_L
+    100586: Toes_R
+    100588: ToesEnd_L
+    100590: ToesEnd_R
+    100592: Wrist_L
+    100594: Wrist_R
+    100596: xiezi
+    100598: xiezi3
+    100600: youyan
+    100602: zuoyan
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: biaoqing
+    400006: boy
+    400008: Chest_M
+    400010: Cup_L
+    400012: Cup_R
+    400014: DeformationSystem
+    400016: Elbow_L
+    400018: Elbow_R
+    400020: ElbowPart1_L
+    400022: ElbowPart1_R
+    400024: ElbowPart2_L
+    400026: ElbowPart2_R
+    400028: Eye_L
+    400030: Eye_R
+    400032: EyeEnd_L
+    400034: EyeEnd_R
+    400036: face
+    400038: FKAimEye_L
+    400040: FKAimEye_R
+    400042: FKCup_L
+    400044: FKCup_R
+    400046: FKExtraCup_L
+    400048: FKExtraCup_R
+    400050: FKExtraEye_L
+    400052: FKExtraEye_R
+    400054: FKExtraHead_M
+    400056: FKExtraIndexFinger1_L
+    400058: FKExtraIndexFinger1_R
+    400060: FKExtraIndexFinger2_L
+    400062: FKExtraIndexFinger2_R
+    400064: FKExtraIndexFinger3_L
+    400066: FKExtraIndexFinger3_R
+    400068: FKExtraJaw_M
+    400070: FKExtraMiddleFinger1_L
+    400072: FKExtraMiddleFinger1_R
+    400074: FKExtraMiddleFinger2_L
+    400076: FKExtraMiddleFinger2_R
+    400078: FKExtraMiddleFinger3_L
+    400080: FKExtraMiddleFinger3_R
+    400082: FKExtraNeck_M
+    400084: FKExtraNeckPart1_M
+    400086: FKExtraNeckPart2_M
+    400088: FKExtraPinkyFinger1_L
+    400090: FKExtraPinkyFinger1_R
+    400092: FKExtraPinkyFinger2_L
+    400094: FKExtraPinkyFinger2_R
+    400096: FKExtraPinkyFinger3_L
+    400098: FKExtraPinkyFinger3_R
+    400100: FKExtraRingFinger1_L
+    400102: FKExtraRingFinger1_R
+    400104: FKExtraRingFinger2_L
+    400106: FKExtraRingFinger2_R
+    400108: FKExtraRingFinger3_L
+    400110: FKExtraRingFinger3_R
+    400112: FKExtraScapula_L
+    400114: FKExtraScapula_R
+    400116: FKExtraThumbFinger1_L
+    400118: FKExtraThumbFinger1_R
+    400120: FKExtraThumbFinger2_L
+    400122: FKExtraThumbFinger2_R
+    400124: FKExtraThumbFinger3_L
+    400126: FKExtraThumbFinger3_R
+    400128: FKEye_L
+    400130: FKEye_R
+    400132: FKGlobalHead_M
+    400134: FKGlobalStaticHead_M
+    400136: FKHead_M
+    400138: FKIndexFinger1_L
+    400140: FKIndexFinger1_R
+    400142: FKIndexFinger2_L
+    400144: FKIndexFinger2_R
+    400146: FKIndexFinger3_L
+    400148: FKIndexFinger3_R
+    400150: FKJaw_M
+    400152: FKMiddleFinger1_L
+    400154: FKMiddleFinger1_R
+    400156: FKMiddleFinger2_L
+    400158: FKMiddleFinger2_R
+    400160: FKMiddleFinger3_L
+    400162: FKMiddleFinger3_R
+    400164: FKNeck_M
+    400166: FKNeckPart1_M
+    400168: FKNeckPart2_M
+    400170: FKOffsetCup_L
+    400172: FKOffsetCup_R
+    400174: FKOffsetEye_L
+    400176: FKOffsetEye_R
+    400178: FKOffsetHead_M
+    400180: FKOffsetIndexFinger1_L
+    400182: FKOffsetIndexFinger1_R
+    400184: FKOffsetIndexFinger2_L
+    400186: FKOffsetIndexFinger2_R
+    400188: FKOffsetIndexFinger3_L
+    400190: FKOffsetIndexFinger3_R
+    400192: FKOffsetJaw_M
+    400194: FKOffsetMiddleFinger1_L
+    400196: FKOffsetMiddleFinger1_R
+    400198: FKOffsetMiddleFinger2_L
+    400200: FKOffsetMiddleFinger2_R
+    400202: FKOffsetMiddleFinger3_L
+    400204: FKOffsetMiddleFinger3_R
+    400206: FKOffsetNeck_M
+    400208: FKOffsetNeckPart1_M
+    400210: FKOffsetNeckPart2_M
+    400212: FKOffsetPinkyFinger1_L
+    400214: FKOffsetPinkyFinger1_R
+    400216: FKOffsetPinkyFinger2_L
+    400218: FKOffsetPinkyFinger2_R
+    400220: FKOffsetPinkyFinger3_L
+    400222: FKOffsetPinkyFinger3_R
+    400224: FKOffsetRingFinger1_L
+    400226: FKOffsetRingFinger1_R
+    400228: FKOffsetRingFinger2_L
+    400230: FKOffsetRingFinger2_R
+    400232: FKOffsetRingFinger3_L
+    400234: FKOffsetRingFinger3_R
+    400236: FKOffsetScapula_L
+    400238: FKOffsetScapula_R
+    400240: FKOffsetThumbFinger1_L
+    400242: FKOffsetThumbFinger1_R
+    400244: FKOffsetThumbFinger2_L
+    400246: FKOffsetThumbFinger2_R
+    400248: FKOffsetThumbFinger3_L
+    400250: FKOffsetThumbFinger3_R
+    400252: FKParentConstraintToChest_M
+    400254: FKParentConstraintToWrist_L
+    400256: FKParentConstraintToWrist_R
+    400258: FKPinkyFinger1_L
+    400260: FKPinkyFinger1_R
+    400262: FKPinkyFinger2_L
+    400264: FKPinkyFinger2_R
+    400266: FKPinkyFinger3_L
+    400268: FKPinkyFinger3_R
+    400270: FKRingFinger1_L
+    400272: FKRingFinger1_R
+    400274: FKRingFinger2_L
+    400276: FKRingFinger2_R
+    400278: FKRingFinger3_L
+    400280: FKRingFinger3_R
+    400282: FKScapula_L
+    400284: FKScapula_R
+    400286: FKSystem
+    400288: FKThumbFinger1_L
+    400290: FKThumbFinger1_R
+    400292: FKThumbFinger2_L
+    400294: FKThumbFinger2_R
+    400296: FKThumbFinger3_L
+    400298: FKThumbFinger3_R
+    400300: FKXCup_L
+    400302: FKXCup_R
+    400304: FKXHead_M
+    400306: FKXIndexFinger1_L
+    400308: FKXIndexFinger1_R
+    400310: FKXIndexFinger2_L
+    400312: FKXIndexFinger2_R
+    400314: FKXMiddleFinger1_L
+    400316: FKXMiddleFinger1_R
+    400318: FKXMiddleFinger2_L
+    400320: FKXMiddleFinger2_R
+    400322: FKXNeck_M
+    400324: FKXNeckPart1_M
+    400326: FKXNeckPart2_M
+    400328: FKXPinkyFinger1_L
+    400330: FKXPinkyFinger1_R
+    400332: FKXPinkyFinger2_L
+    400334: FKXPinkyFinger2_R
+    400336: FKXRingFinger1_L
+    400338: FKXRingFinger1_R
+    400340: FKXRingFinger2_L
+    400342: FKXRingFinger2_R
+    400344: FKXThumbFinger1_L
+    400346: FKXThumbFinger1_R
+    400348: FKXThumbFinger2_L
+    400350: FKXThumbFinger2_R
+    400352: Group
+    400354: hair
+    400356: Head_M
+    400358: HeadEnd_M
+    400360: Hip_L
+    400362: Hip_R
+    400364: HipPart1_L
+    400366: HipPart1_R
+    400368: HipPart2_L
+    400370: HipPart2_R
+    400372: IndexFinger1_L
+    400374: IndexFinger1_R
+    400376: IndexFinger2_L
+    400378: IndexFinger2_R
+    400380: IndexFinger3_L
+    400382: IndexFinger3_R
+    400384: IndexFinger4_L
+    400386: IndexFinger4_R
+    400388: Jaw_M
+    400390: JawEnd_M
+    400392: Knee_L
+    400394: Knee_R
+    400396: kouxing
+    400398: kuzi
+    400400: Main
+    400402: MiddleFinger1_L
+    400404: MiddleFinger1_R
+    400406: MiddleFinger2_L
+    400408: MiddleFinger2_R
+    400410: MiddleFinger3_L
+    400412: MiddleFinger3_R
+    400414: MiddleFinger4_L
+    400416: MiddleFinger4_R
+    400418: MotionSystem
+    400420: Neck_M
+    400422: NeckPart1_M
+    400424: NeckPart2_M
+    400426: neiyi
+    400428: pasted__kouxing
+    400430: PinkyFinger1_L
+    400432: PinkyFinger1_R
+    400434: PinkyFinger2_L
+    400436: PinkyFinger2_R
+    400438: PinkyFinger3_L
+    400440: PinkyFinger3_R
+    400442: PinkyFinger4_L
+    400444: PinkyFinger4_R
+    400446: RingFinger1_L
+    400448: RingFinger1_R
+    400450: RingFinger2_L
+    400452: RingFinger2_R
+    400454: RingFinger3_L
+    400456: RingFinger3_R
+    400458: RingFinger4_L
+    400460: RingFinger4_R
+    400462: Root_M
+    400464: RootPart1_M
+    400466: RootPart2_M
+    400468: Scapula_L
+    400470: Scapula_R
+    400472: SDK1FKCup_L
+    400474: SDK1FKCup_R
+    400476: SDK1FKIndexFinger1_L
+    400478: SDK1FKIndexFinger1_R
+    400480: SDK1FKIndexFinger2_L
+    400482: SDK1FKIndexFinger2_R
+    400484: SDK1FKIndexFinger3_L
+    400486: SDK1FKIndexFinger3_R
+    400488: SDK1FKMiddleFinger1_L
+    400490: SDK1FKMiddleFinger1_R
+    400492: SDK1FKMiddleFinger2_L
+    400494: SDK1FKMiddleFinger2_R
+    400496: SDK1FKMiddleFinger3_L
+    400498: SDK1FKMiddleFinger3_R
+    400500: SDK1FKPinkyFinger1_L
+    400502: SDK1FKPinkyFinger1_R
+    400504: SDK1FKPinkyFinger2_L
+    400506: SDK1FKPinkyFinger2_R
+    400508: SDK1FKPinkyFinger3_L
+    400510: SDK1FKPinkyFinger3_R
+    400512: SDK1FKRingFinger1_L
+    400514: SDK1FKRingFinger1_R
+    400516: SDK1FKRingFinger2_L
+    400518: SDK1FKRingFinger2_R
+    400520: SDK1FKRingFinger3_L
+    400522: SDK1FKRingFinger3_R
+    400524: SDK1FKThumbFinger2_L
+    400526: SDK1FKThumbFinger2_R
+    400528: SDK1FKThumbFinger3_L
+    400530: SDK1FKThumbFinger3_R
+    400532: SDK2FKIndexFinger1_L
+    400534: SDK2FKIndexFinger1_R
+    400536: SDK2FKPinkyFinger1_L
+    400538: SDK2FKPinkyFinger1_R
+    400540: SDK2FKRingFinger1_L
+    400542: SDK2FKRingFinger1_R
+    400544: shangyi
+    400546: shou
+    400548: Shoulder_L
+    400550: Shoulder_R
+    400552: ShoulderPart1_L
+    400554: ShoulderPart1_R
+    400556: ShoulderPart2_L
+    400558: ShoulderPart2_R
+    400560: Spine1_M
+    400562: Spine1Part1_M
+    400564: Spine1Part2_M
+    400566: //RootNode
+    400568: ThumbFinger1_L
+    400570: ThumbFinger1_R
+    400572: ThumbFinger2_L
+    400574: ThumbFinger2_R
+    400576: ThumbFinger3_L
+    400578: ThumbFinger3_R
+    400580: ThumbFinger4_L
+    400582: ThumbFinger4_R
+    400584: Toes_L
+    400586: Toes_R
+    400588: ToesEnd_L
+    400590: ToesEnd_R
+    400592: Wrist_L
+    400594: Wrist_R
+    400596: xiezi
+    400598: xiezi3
+    400600: youyan
+    400602: zuoyan
+    4300000: hair
+    4300002: shou
+    4300004: kuzi
+    4300006: shangyi
+    4300008: face
+    4300010: xiezi3
+    4300012: xiezi
+    4300014: zuoyan
+    4300016: youyan
+    4300018: neiyi
+    7400000: stand
+    9500000: //RootNode
+    13700000: face
+    13700002: hair
+    13700004: kuzi
+    13700006: neiyi
+    13700008: shangyi
+    13700010: shou
+    13700012: xiezi
+    13700014: xiezi3
+    13700016: youyan
+    13700018: zuoyan
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Hip_R' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'HipPart2_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Hip_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'HipPart2_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stand
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: biaoqing
+        weight: 0
+      - path: boy
+        weight: 0
+      - path: boy/face
+        weight: 0
+      - path: boy/hair
+        weight: 0
+      - path: boy/kuzi
+        weight: 0
+      - path: boy/neiyi
+        weight: 0
+      - path: boy/shangyi
+        weight: 0
+      - path: boy/shou
+        weight: 0
+      - path: boy/xiezi
+        weight: 0
+      - path: boy/xiezi3
+        weight: 0
+      - path: boy/youyan
+        weight: 0
+      - path: boy/zuoyan
+        weight: 0
+      - path: Group
+        weight: 1
+      - path: Group/Main
+        weight: 1
+      - path: Group/Main/DeformationSystem
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_L/HipPart1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Toes_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Toes_L/ToesEnd_L
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/Hip_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_R/HipPart1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Toes_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Toes_R/ToesEnd_R
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye_L
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye_L/EyeEnd_L
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye_R
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye_R/EyeEnd_R
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/HeadEnd_M
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Jaw_M
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Jaw_M/JawEnd_M
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L/PinkyFinger4_L
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L/RingFinger3_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger4_L
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger4_L
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger4_L
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L/ThumbFinger4_L
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R/PinkyFinger4_R
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R/RingFinger3_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger4_R
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger4_R
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger4_R
+        weight: 0
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R/ThumbFinger3_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/RootPart1_M/RootPart2_M/Spine1_M/Spine1Part1_M/Spine1Part2_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R/ThumbFinger3_R/ThumbFinger4_R
+        weight: 0
+      - path: Group/Main/MotionSystem
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKNeck_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKAimEye_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKAimEye_L/FKOffsetEye_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKAimEye_L/FKOffsetEye_L/FKExtraEye_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKAimEye_L/FKOffsetEye_L/FKExtraEye_L/FKEye_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKAimEye_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKAimEye_R/FKOffsetEye_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKAimEye_R/FKOffsetEye_R/FKExtraEye_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKAimEye_R/FKOffsetEye_R/FKExtraEye_R/FKEye_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKOffsetJaw_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKOffsetJaw_M/FKExtraJaw_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetNeck_M/FKExtraNeck_M/FKXNeck_M/FKOffsetNeckPart1_M/FKExtraNeckPart1_M/FKNeckPart1_M/FKXNeckPart1_M/FKOffsetNeckPart2_M/FKExtraNeckPart2_M/FKNeckPart2_M/FKXNeckPart2_M/FKOffsetHead_M/FKGlobalStaticHead_M/FKGlobalHead_M/FKExtraHead_M/FKHead_M/FKXHead_M/FKOffsetJaw_M/FKExtraJaw_M/FKJaw_M
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetScapula_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetScapula_L/FKExtraScapula_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetScapula_L/FKExtraScapula_L/FKScapula_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetScapula_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetScapula_R/FKExtraScapula_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToChest_M/FKOffsetScapula_R/FKExtraScapula_R/FKScapula_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L/SDK1FKPinkyFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L/SDK1FKPinkyFinger2_L/FKExtraPinkyFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L/SDK1FKPinkyFinger2_L/FKExtraPinkyFinger2_L/FKPinkyFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L/SDK1FKPinkyFinger2_L/FKExtraPinkyFinger2_L/FKPinkyFinger2_L/FKXPinkyFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L/SDK1FKPinkyFinger2_L/FKExtraPinkyFinger2_L/FKPinkyFinger2_L/FKXPinkyFinger2_L/FKOffsetPinkyFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L/SDK1FKPinkyFinger2_L/FKExtraPinkyFinger2_L/FKPinkyFinger2_L/FKXPinkyFinger2_L/FKOffsetPinkyFinger3_L/SDK1FKPinkyFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L/SDK1FKPinkyFinger2_L/FKExtraPinkyFinger2_L/FKPinkyFinger2_L/FKXPinkyFinger2_L/FKOffsetPinkyFinger3_L/SDK1FKPinkyFinger3_L/FKExtraPinkyFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetPinkyFinger1_L/SDK1FKPinkyFinger1_L/SDK2FKPinkyFinger1_L/FKExtraPinkyFinger1_L/FKPinkyFinger1_L/FKXPinkyFinger1_L/FKOffsetPinkyFinger2_L/SDK1FKPinkyFinger2_L/FKExtraPinkyFinger2_L/FKPinkyFinger2_L/FKXPinkyFinger2_L/FKOffsetPinkyFinger3_L/SDK1FKPinkyFinger3_L/FKExtraPinkyFinger3_L/FKPinkyFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L/SDK1FKRingFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L/SDK1FKRingFinger2_L/FKExtraRingFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L/SDK1FKRingFinger2_L/FKExtraRingFinger2_L/FKRingFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L/SDK1FKRingFinger2_L/FKExtraRingFinger2_L/FKRingFinger2_L/FKXRingFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L/SDK1FKRingFinger2_L/FKExtraRingFinger2_L/FKRingFinger2_L/FKXRingFinger2_L/FKOffsetRingFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L/SDK1FKRingFinger2_L/FKExtraRingFinger2_L/FKRingFinger2_L/FKXRingFinger2_L/FKOffsetRingFinger3_L/SDK1FKRingFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L/SDK1FKRingFinger2_L/FKExtraRingFinger2_L/FKRingFinger2_L/FKXRingFinger2_L/FKOffsetRingFinger3_L/SDK1FKRingFinger3_L/FKExtraRingFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetCup_L/SDK1FKCup_L/FKExtraCup_L/FKCup_L/FKXCup_L/FKOffsetRingFinger1_L/SDK1FKRingFinger1_L/SDK2FKRingFinger1_L/FKExtraRingFinger1_L/FKRingFinger1_L/FKXRingFinger1_L/FKOffsetRingFinger2_L/SDK1FKRingFinger2_L/FKExtraRingFinger2_L/FKRingFinger2_L/FKXRingFinger2_L/FKOffsetRingFinger3_L/SDK1FKRingFinger3_L/FKExtraRingFinger3_L/FKRingFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L/SDK1FKIndexFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L/SDK1FKIndexFinger2_L/FKExtraIndexFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L/SDK1FKIndexFinger2_L/FKExtraIndexFinger2_L/FKIndexFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L/SDK1FKIndexFinger2_L/FKExtraIndexFinger2_L/FKIndexFinger2_L/FKXIndexFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L/SDK1FKIndexFinger2_L/FKExtraIndexFinger2_L/FKIndexFinger2_L/FKXIndexFinger2_L/FKOffsetIndexFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L/SDK1FKIndexFinger2_L/FKExtraIndexFinger2_L/FKIndexFinger2_L/FKXIndexFinger2_L/FKOffsetIndexFinger3_L/SDK1FKIndexFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L/SDK1FKIndexFinger2_L/FKExtraIndexFinger2_L/FKIndexFinger2_L/FKXIndexFinger2_L/FKOffsetIndexFinger3_L/SDK1FKIndexFinger3_L/FKExtraIndexFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetIndexFinger1_L/SDK1FKIndexFinger1_L/SDK2FKIndexFinger1_L/FKExtraIndexFinger1_L/FKIndexFinger1_L/FKXIndexFinger1_L/FKOffsetIndexFinger2_L/SDK1FKIndexFinger2_L/FKExtraIndexFinger2_L/FKIndexFinger2_L/FKXIndexFinger2_L/FKOffsetIndexFinger3_L/SDK1FKIndexFinger3_L/FKExtraIndexFinger3_L/FKIndexFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L/SDK1FKMiddleFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L/SDK1FKMiddleFinger2_L/FKExtraMiddleFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L/SDK1FKMiddleFinger2_L/FKExtraMiddleFinger2_L/FKMiddleFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L/SDK1FKMiddleFinger2_L/FKExtraMiddleFinger2_L/FKMiddleFinger2_L/FKXMiddleFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L/SDK1FKMiddleFinger2_L/FKExtraMiddleFinger2_L/FKMiddleFinger2_L/FKXMiddleFinger2_L/FKOffsetMiddleFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L/SDK1FKMiddleFinger2_L/FKExtraMiddleFinger2_L/FKMiddleFinger2_L/FKXMiddleFinger2_L/FKOffsetMiddleFinger3_L/SDK1FKMiddleFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L/SDK1FKMiddleFinger2_L/FKExtraMiddleFinger2_L/FKMiddleFinger2_L/FKXMiddleFinger2_L/FKOffsetMiddleFinger3_L/SDK1FKMiddleFinger3_L/FKExtraMiddleFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetMiddleFinger1_L/SDK1FKMiddleFinger1_L/FKExtraMiddleFinger1_L/FKMiddleFinger1_L/FKXMiddleFinger1_L/FKOffsetMiddleFinger2_L/SDK1FKMiddleFinger2_L/FKExtraMiddleFinger2_L/FKMiddleFinger2_L/FKXMiddleFinger2_L/FKOffsetMiddleFinger3_L/SDK1FKMiddleFinger3_L/FKExtraMiddleFinger3_L/FKMiddleFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L/SDK1FKThumbFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L/SDK1FKThumbFinger2_L/FKExtraThumbFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L/SDK1FKThumbFinger2_L/FKExtraThumbFinger2_L/FKThumbFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L/SDK1FKThumbFinger2_L/FKExtraThumbFinger2_L/FKThumbFinger2_L/FKXThumbFinger2_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L/SDK1FKThumbFinger2_L/FKExtraThumbFinger2_L/FKThumbFinger2_L/FKXThumbFinger2_L/FKOffsetThumbFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L/SDK1FKThumbFinger2_L/FKExtraThumbFinger2_L/FKThumbFinger2_L/FKXThumbFinger2_L/FKOffsetThumbFinger3_L/SDK1FKThumbFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L/SDK1FKThumbFinger2_L/FKExtraThumbFinger2_L/FKThumbFinger2_L/FKXThumbFinger2_L/FKOffsetThumbFinger3_L/SDK1FKThumbFinger3_L/FKExtraThumbFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_L/FKOffsetThumbFinger1_L/FKExtraThumbFinger1_L/FKThumbFinger1_L/FKXThumbFinger1_L/FKOffsetThumbFinger2_L/SDK1FKThumbFinger2_L/FKExtraThumbFinger2_L/FKThumbFinger2_L/FKXThumbFinger2_L/FKOffsetThumbFinger3_L/SDK1FKThumbFinger3_L/FKExtraThumbFinger3_L/FKThumbFinger3_L
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R/SDK1FKPinkyFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R/SDK1FKPinkyFinger2_R/FKExtraPinkyFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R/SDK1FKPinkyFinger2_R/FKExtraPinkyFinger2_R/FKPinkyFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R/SDK1FKPinkyFinger2_R/FKExtraPinkyFinger2_R/FKPinkyFinger2_R/FKXPinkyFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R/SDK1FKPinkyFinger2_R/FKExtraPinkyFinger2_R/FKPinkyFinger2_R/FKXPinkyFinger2_R/FKOffsetPinkyFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R/SDK1FKPinkyFinger2_R/FKExtraPinkyFinger2_R/FKPinkyFinger2_R/FKXPinkyFinger2_R/FKOffsetPinkyFinger3_R/SDK1FKPinkyFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R/SDK1FKPinkyFinger2_R/FKExtraPinkyFinger2_R/FKPinkyFinger2_R/FKXPinkyFinger2_R/FKOffsetPinkyFinger3_R/SDK1FKPinkyFinger3_R/FKExtraPinkyFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetPinkyFinger1_R/SDK1FKPinkyFinger1_R/SDK2FKPinkyFinger1_R/FKExtraPinkyFinger1_R/FKPinkyFinger1_R/FKXPinkyFinger1_R/FKOffsetPinkyFinger2_R/SDK1FKPinkyFinger2_R/FKExtraPinkyFinger2_R/FKPinkyFinger2_R/FKXPinkyFinger2_R/FKOffsetPinkyFinger3_R/SDK1FKPinkyFinger3_R/FKExtraPinkyFinger3_R/FKPinkyFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R/SDK1FKRingFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R/SDK1FKRingFinger2_R/FKExtraRingFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R/SDK1FKRingFinger2_R/FKExtraRingFinger2_R/FKRingFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R/SDK1FKRingFinger2_R/FKExtraRingFinger2_R/FKRingFinger2_R/FKXRingFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R/SDK1FKRingFinger2_R/FKExtraRingFinger2_R/FKRingFinger2_R/FKXRingFinger2_R/FKOffsetRingFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R/SDK1FKRingFinger2_R/FKExtraRingFinger2_R/FKRingFinger2_R/FKXRingFinger2_R/FKOffsetRingFinger3_R/SDK1FKRingFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R/SDK1FKRingFinger2_R/FKExtraRingFinger2_R/FKRingFinger2_R/FKXRingFinger2_R/FKOffsetRingFinger3_R/SDK1FKRingFinger3_R/FKExtraRingFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetCup_R/SDK1FKCup_R/FKExtraCup_R/FKCup_R/FKXCup_R/FKOffsetRingFinger1_R/SDK1FKRingFinger1_R/SDK2FKRingFinger1_R/FKExtraRingFinger1_R/FKRingFinger1_R/FKXRingFinger1_R/FKOffsetRingFinger2_R/SDK1FKRingFinger2_R/FKExtraRingFinger2_R/FKRingFinger2_R/FKXRingFinger2_R/FKOffsetRingFinger3_R/SDK1FKRingFinger3_R/FKExtraRingFinger3_R/FKRingFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R/SDK1FKIndexFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R/SDK1FKIndexFinger2_R/FKExtraIndexFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R/SDK1FKIndexFinger2_R/FKExtraIndexFinger2_R/FKIndexFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R/SDK1FKIndexFinger2_R/FKExtraIndexFinger2_R/FKIndexFinger2_R/FKXIndexFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R/SDK1FKIndexFinger2_R/FKExtraIndexFinger2_R/FKIndexFinger2_R/FKXIndexFinger2_R/FKOffsetIndexFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R/SDK1FKIndexFinger2_R/FKExtraIndexFinger2_R/FKIndexFinger2_R/FKXIndexFinger2_R/FKOffsetIndexFinger3_R/SDK1FKIndexFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R/SDK1FKIndexFinger2_R/FKExtraIndexFinger2_R/FKIndexFinger2_R/FKXIndexFinger2_R/FKOffsetIndexFinger3_R/SDK1FKIndexFinger3_R/FKExtraIndexFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetIndexFinger1_R/SDK1FKIndexFinger1_R/SDK2FKIndexFinger1_R/FKExtraIndexFinger1_R/FKIndexFinger1_R/FKXIndexFinger1_R/FKOffsetIndexFinger2_R/SDK1FKIndexFinger2_R/FKExtraIndexFinger2_R/FKIndexFinger2_R/FKXIndexFinger2_R/FKOffsetIndexFinger3_R/SDK1FKIndexFinger3_R/FKExtraIndexFinger3_R/FKIndexFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R/SDK1FKMiddleFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R/SDK1FKMiddleFinger2_R/FKExtraMiddleFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R/SDK1FKMiddleFinger2_R/FKExtraMiddleFinger2_R/FKMiddleFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R/SDK1FKMiddleFinger2_R/FKExtraMiddleFinger2_R/FKMiddleFinger2_R/FKXMiddleFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R/SDK1FKMiddleFinger2_R/FKExtraMiddleFinger2_R/FKMiddleFinger2_R/FKXMiddleFinger2_R/FKOffsetMiddleFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R/SDK1FKMiddleFinger2_R/FKExtraMiddleFinger2_R/FKMiddleFinger2_R/FKXMiddleFinger2_R/FKOffsetMiddleFinger3_R/SDK1FKMiddleFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R/SDK1FKMiddleFinger2_R/FKExtraMiddleFinger2_R/FKMiddleFinger2_R/FKXMiddleFinger2_R/FKOffsetMiddleFinger3_R/SDK1FKMiddleFinger3_R/FKExtraMiddleFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetMiddleFinger1_R/SDK1FKMiddleFinger1_R/FKExtraMiddleFinger1_R/FKMiddleFinger1_R/FKXMiddleFinger1_R/FKOffsetMiddleFinger2_R/SDK1FKMiddleFinger2_R/FKExtraMiddleFinger2_R/FKMiddleFinger2_R/FKXMiddleFinger2_R/FKOffsetMiddleFinger3_R/SDK1FKMiddleFinger3_R/FKExtraMiddleFinger3_R/FKMiddleFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R/SDK1FKThumbFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R/SDK1FKThumbFinger2_R/FKExtraThumbFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R/SDK1FKThumbFinger2_R/FKExtraThumbFinger2_R/FKThumbFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R/SDK1FKThumbFinger2_R/FKExtraThumbFinger2_R/FKThumbFinger2_R/FKXThumbFinger2_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R/SDK1FKThumbFinger2_R/FKExtraThumbFinger2_R/FKThumbFinger2_R/FKXThumbFinger2_R/FKOffsetThumbFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R/SDK1FKThumbFinger2_R/FKExtraThumbFinger2_R/FKThumbFinger2_R/FKXThumbFinger2_R/FKOffsetThumbFinger3_R/SDK1FKThumbFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R/SDK1FKThumbFinger2_R/FKExtraThumbFinger2_R/FKThumbFinger2_R/FKXThumbFinger2_R/FKOffsetThumbFinger3_R/SDK1FKThumbFinger3_R/FKExtraThumbFinger3_R
+        weight: 0
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToWrist_R/FKOffsetThumbFinger1_R/FKExtraThumbFinger1_R/FKThumbFinger1_R/FKXThumbFinger1_R/FKOffsetThumbFinger2_R/SDK1FKThumbFinger2_R/FKExtraThumbFinger2_R/FKThumbFinger2_R/FKXThumbFinger2_R/FKOffsetThumbFinger3_R/SDK1FKThumbFinger3_R/FKExtraThumbFinger3_R/FKThumbFinger3_R
+        weight: 0
+      - path: kouxing
+        weight: 0
+      - path: kouxing/pasted__kouxing
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: Root_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HipPart1_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HipPart1_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RootPart2_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine1Part2_M
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck_M
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NeckPart1_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShoulderPart1_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShoulderPart1_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ElbowPart2_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ElbowPart2_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toes_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toes_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NeckPart2_M
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingFinger1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingFinger2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingFinger3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: IndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingFinger1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingFinger2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RingFinger3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: T_pose(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: biaoqing
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: boy
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: face
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: kuzi
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: neiyi
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: shangyi
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: shou
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xiezi
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xiezi3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: youyan
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: zuoyan
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Group
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Main
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: DeformationSystem
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Root_M
+      position: {x: -9.854741e-19, y: 0.051387418, z: -0.00088586035}
+      rotation: {x: 0.46374902, y: -0.53379476, z: -0.46374902, w: 0.53379476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip_R
+      position: {x: 0.0009984472, y: -0.00041120112, z: -0.004098433}
+      rotation: {x: 0.026148768, y: 0.9967566, z: 0.074865736, w: -0.013698091}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HipPart1_R
+      position: {x: -0.008290207, y: -3.330669e-18, z: 3.7747583e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HipPart2_R
+      position: {x: -0.008290207, y: -4.440892e-18, z: 3.9968027e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Knee_R
+      position: {x: -0.008290207, y: -4.440892e-18, z: 3.8857805e-17}
+      rotation: {x: 0, y: 0, z: 0.08303209, w: 0.99654686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ankle_R
+      position: {x: -0.019172166, y: -6.633582e-17, z: 2.853273e-16}
+      rotation: {x: 0.100258164, y: -0.026069343, z: -0.038401764, w: 0.99387825}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Toes_R
+      position: {x: -0.0052681593, y: 0.006722512, z: 1.1213252e-16}
+      rotation: {x: -0.032416597, y: -0.04887383, z: -0.79149365, w: 0.60835713}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ToesEnd_R
+      position: {x: -0.005882693, y: -4.163336e-18, z: -2.220446e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RootPart1_M
+      position: {x: -0.0029269254, y: 0, z: -6.0513473e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RootPart2_M
+      position: {x: -0.0029269254, y: -1.110223e-18, z: -6.0513473e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine1_M
+      position: {x: -0.0029269254, y: 1.110223e-18, z: -2.4653121e-18}
+      rotation: {x: 0, y: -0, z: -0.027103597, w: 0.99963266}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine1Part1_M
+      position: {x: -0.0023765098, y: -1.6653345e-18, z: -1.315649e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine1Part2_M
+      position: {x: -0.0023765098, y: 2.7755574e-18, z: -1.1837263e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chest_M
+      position: {x: -0.0023765098, y: -1.6653345e-18, z: -3.2193718e-18}
+      rotation: {x: 0, y: -0, z: -0.111941054, w: 0.99371487}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Scapula_R
+      position: {x: -0.0065154787, y: 0.0010012412, z: -0.007580443}
+      rotation: {x: 0.20526128, y: -0.7160758, z: 0.13711922, w: 0.6529178}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoulder_R
+      position: {x: -0.004421317, y: -9.7699626e-17, z: -7.105427e-17}
+      rotation: {x: -0.00043057563, y: 0.02673008, z: 0.016100436, w: 0.999513}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ShoulderPart1_R
+      position: {x: -0.002918679, y: -8.881784e-18, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ShoulderPart2_R
+      position: {x: -0.002918679, y: -8.881784e-18, z: -1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Elbow_R
+      position: {x: -0.002918679, y: -4.440892e-18, z: -2.6645352e-17}
+      rotation: {x: 0.00046902883, y: 0.011377258, z: -0.016697248, w: 0.9997958}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ElbowPart1_R
+      position: {x: -0.004602556, y: -2.2204459e-17, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ElbowPart2_R
+      position: {x: -0.004602556, y: -8.881784e-18, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wrist_R
+      position: {x: -0.004602556, y: -1.3322676e-17, z: -8.881784e-18}
+      rotation: {x: -0.16591074, y: -0.058314487, z: -0.031616513, w: 0.9839072}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleFinger1_R
+      position: {x: -0.00604253, y: -2.4424906e-17, z: 5.3290704e-17}
+      rotation: {x: 0.0048125302, y: -0.019813487, z: 0.004976934, w: 0.99977976}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleFinger2_R
+      position: {x: -0.0012753292, y: 1.6653345e-18, z: 0}
+      rotation: {x: 0.01318615, y: -0.030218642, z: -0.026874196, w: 0.99909496}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleFinger3_R
+      position: {x: -0.0013429997, y: 6.661338e-18, z: -1.7763567e-16}
+      rotation: {x: -0.0032288127, y: 0.009327443, z: 0.03931102, w: 0.9991783}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleFinger4_R
+      position: {x: -0.001219693, y: -1.2802259e-17, z: 1.0658141e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ThumbFinger1_R
+      position: {x: -0.0035391508, y: 0.0020277158, z: -0.0005504232}
+      rotation: {x: -0.4385903, y: 0.102892436, z: -0.34966123, w: 0.82145524}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ThumbFinger2_R
+      position: {x: -0.00096817233, y: -8.881784e-18, z: 0}
+      rotation: {x: 0.0016399096, y: -0.009191063, z: 0.017155247, w: 0.99980927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ThumbFinger3_R
+      position: {x: -0.001061024, y: -3.5527136e-17, z: -1.7763568e-17}
+      rotation: {x: -0.00035539287, y: 0.0026413896, z: 0.025662107, w: 0.9996671}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ThumbFinger4_R
+      position: {x: -0.00099494, y: 3.5527136e-17, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndexFinger1_R
+      position: {x: -0.005436111, y: 0.0011232138, z: 0.00017340225}
+      rotation: {x: -0.010027707, y: -0.04966149, z: -0.018595545, w: 0.99854267}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndexFinger2_R
+      position: {x: -0.001125423, y: 8.881784e-18, z: 5.3290704e-17}
+      rotation: {x: -0.0008986642, y: 0.022868372, z: -0.016124062, w: 0.99960804}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndexFinger3_R
+      position: {x: -0.0012667184, y: -2.7755576e-17, z: -2.6645352e-17}
+      rotation: {x: -0.014379366, y: 0.015970733, z: 0.027270896, w: 0.9993971}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndexFinger4_R
+      position: {x: -0.0013281613, y: -2.5535128e-17, z: -1.1546319e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cup_R
+      position: {x: -0.0012315034, y: -0.001017744, z: -0.000100902216}
+      rotation: {x: -0.00009193943, y: 0.001815618, z: -0.0505732, w: 0.9987187}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PinkyFinger1_R
+      position: {x: -0.004031028, y: -0.0016071124, z: -0.00024118528}
+      rotation: {x: 0.012359108, y: -0.036724668, z: 0.12894435, w: 0.9908945}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PinkyFinger2_R
+      position: {x: -0.0009844427, y: -1.7798263e-17, z: 3.5527136e-17}
+      rotation: {x: 0.01657797, y: -0.03338134, z: 0.016358072, w: 0.9991713}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PinkyFinger3_R
+      position: {x: -0.0011470049, y: 7.771561e-18, z: 3.5527136e-17}
+      rotation: {x: 0.016664108, y: 0.008460215, z: -0.022966145, w: 0.99956155}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PinkyFinger4_R
+      position: {x: -0.0009136886, y: -3.330669e-18, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RingFinger1_R
+      position: {x: -0.0048638005, y: -0.0005265079, z: -0.00008340922}
+      rotation: {x: 0.008618591, y: -0.00847538, z: 0.14401206, w: 0.9895021}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RingFinger2_R
+      position: {x: -0.0011026517, y: -5.5511148e-18, z: -1.4210854e-16}
+      rotation: {x: 0.0021466608, y: -0.028574925, z: -0.02991337, w: 0.9991417}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RingFinger3_R
+      position: {x: -0.0011326452, y: -4.440892e-18, z: 6.217249e-17}
+      rotation: {x: 0.0036963886, y: 0.0073255757, z: 0.00956025, w: 0.99992067}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RingFinger4_R
+      position: {x: -0.001023655, y: -3.330669e-18, z: 4.4408918e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Neck_M
+      position: {x: -0.005838278, y: 1.5543122e-17, z: 2.0854573e-17}
+      rotation: {x: 0, y: -0, z: -0.030742737, w: 0.99952734}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: NeckPart1_M
+      position: {x: -0.0023394518, y: 1.7763568e-17, z: -3.2337358e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: NeckPart2_M
+      position: {x: -0.0023394518, y: 0, z: -5.0518555e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head_M
+      position: {x: -0.0023394518, y: 4.440892e-18, z: -8.078486e-18}
+      rotation: {x: 0, y: 0, z: 0.015680406, w: 0.9998771}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Eye_L
+      position: {x: -0.006105044, y: 0.0018001128, z: 0.0017115059}
+      rotation: {x: -0.0336636, y: -0.048801526, z: -0.7150165, w: 0.6965893}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyeEnd_L
+      position: {x: -0.002637267, y: -3.5527136e-17, z: -1.2490009e-17}
+      rotation: {x: -0.13868618, y: -0.0022722934, z: -0.0001583331, w: 0.99033374}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Eye_R
+      position: {x: -0.006105044, y: 0.0018001128, z: -0.0017115059}
+      rotation: {x: 0.0336636, y: 0.048801526, z: -0.7150165, w: 0.6965893}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyeEnd_R
+      position: {x: -0.002637267, y: -3.5527136e-17, z: -1.2490009e-17}
+      rotation: {x: 0.13868618, y: 0.0022722934, z: -0.0001583331, w: 0.99033374}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HeadEnd_M
+      position: {x: -0.011721381, y: -6.4392934e-17, z: -3.4357843e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jaw_M
+      position: {x: -0.0018564798, y: 0.0017410014, z: -1.5707809e-17}
+      rotation: {x: 0, y: -0, z: -0.6231668, w: 0.782089}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JawEnd_M
+      position: {x: -0.0047984812, y: 3.5527136e-17, z: -2.5911952e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Scapula_L
+      position: {x: -0.0065154787, y: 0.0010012412, z: 0.007580443}
+      rotation: {x: 0.7160758, y: 0.20526128, z: 0.6529178, w: -0.13711922}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoulder_L
+      position: {x: 0.004421317, y: 7.105427e-17, z: 1.4210854e-16}
+      rotation: {x: -0.00043057563, y: 0.02673008, z: 0.016100436, w: 0.999513}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ShoulderPart1_L
+      position: {x: 0.002918679, y: -3.1086245e-17, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ShoulderPart2_L
+      position: {x: 0.002918679, y: -3.9968027e-17, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Elbow_L
+      position: {x: 0.002918679, y: -3.1086245e-17, z: -2.6645352e-17}
+      rotation: {x: 0.0004690587, y: 0.011377254, z: -0.016697267, w: 0.9997958}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ElbowPart1_L
+      position: {x: 0.004602556, y: 3.5527136e-17, z: 5.3290704e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ElbowPart2_L
+      position: {x: 0.004602556, y: 3.5527136e-17, z: 5.3290704e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Wrist_L
+      position: {x: 0.004602556, y: 2.6645352e-17, z: 5.3290704e-17}
+      rotation: {x: -0.16591074, y: -0.058314487, z: -0.031616513, w: 0.9839072}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleFinger1_L
+      position: {x: 0.00604253, y: -3.9412916e-17, z: -1.5987211e-16}
+      rotation: {x: 0.0048125302, y: -0.019813487, z: 0.004976934, w: 0.99977976}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleFinger2_L
+      position: {x: 0.0012753292, y: -9.992007e-18, z: 1.3322676e-16}
+      rotation: {x: 0.01318618, y: -0.030222729, z: -0.026875803, w: 0.99909484}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleFinger3_L
+      position: {x: 0.0013429997, y: 2.942091e-17, z: -1.7763568e-17}
+      rotation: {x: -0.0032288714, y: 0.009327519, z: 0.03931095, w: 0.9991783}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleFinger4_L
+      position: {x: 0.001219693, y: -1.661865e-17, z: -8.8817837e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ThumbFinger1_L
+      position: {x: 0.0035391508, y: -0.0020277158, z: 0.0005504232}
+      rotation: {x: -0.4385904, y: 0.10289232, z: -0.349662, w: 0.82145494}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ThumbFinger2_L
+      position: {x: 0.00096817233, y: 5.3290704e-17, z: 5.3290704e-17}
+      rotation: {x: 0.0016399096, y: -0.009191063, z: 0.017155247, w: 0.99980927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ThumbFinger3_L
+      position: {x: 0.001061024, y: 7.105427e-17, z: -7.9936054e-17}
+      rotation: {x: -0.00035539287, y: 0.0026413896, z: 0.025662107, w: 0.9996671}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ThumbFinger4_L
+      position: {x: 0.00099494, y: 2.6645352e-17, z: 4.4408918e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndexFinger1_L
+      position: {x: 0.005436111, y: -0.0011232138, z: -0.00017340225}
+      rotation: {x: -0.010027468, y: -0.049664237, z: -0.018596396, w: 0.99854255}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndexFinger2_L
+      position: {x: 0.001125423, y: 3.330669e-17, z: 9.7699626e-17}
+      rotation: {x: -0.0008986642, y: 0.022868372, z: -0.016124062, w: 0.99960804}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndexFinger3_L
+      position: {x: 0.0012667184, y: -2.3314683e-17, z: -1.2434498e-16}
+      rotation: {x: -0.014379366, y: 0.015970733, z: 0.027270896, w: 0.9993971}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IndexFinger4_L
+      position: {x: 0.0013281613, y: 2.3314683e-17, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cup_L
+      position: {x: 0.0012315034, y: 0.001017744, z: 0.000100902216}
+      rotation: {x: -0.00009193943, y: 0.001815618, z: -0.0505732, w: 0.9987187}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PinkyFinger1_L
+      position: {x: 0.004031028, y: 0.0016071124, z: 0.00024118528}
+      rotation: {x: 0.012359108, y: -0.036724668, z: 0.12894435, w: 0.9908945}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PinkyFinger2_L
+      position: {x: 0.0009844427, y: -1.4814538e-17, z: 8.8817837e-17}
+      rotation: {x: 0.01657797, y: -0.03338134, z: 0.016358072, w: 0.9991713}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PinkyFinger3_L
+      position: {x: 0.0011470049, y: -1.6653345e-18, z: 8.881784e-18}
+      rotation: {x: 0.016664108, y: 0.008460215, z: -0.022966145, w: 0.99956155}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PinkyFinger4_L
+      position: {x: 0.0009136886, y: -2.1094237e-17, z: -1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RingFinger1_L
+      position: {x: 0.0048638005, y: 0.0005265079, z: 0.00008340922}
+      rotation: {x: 0.008618532, y: -0.0084753465, z: 0.14401188, w: 0.98950213}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RingFinger2_L
+      position: {x: 0.0011026517, y: -1.2212453e-17, z: 1.9539925e-16}
+      rotation: {x: 0.0021467796, y: -0.028573351, z: -0.029911919, w: 0.9991418}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RingFinger3_L
+      position: {x: 0.0011326452, y: 2.7755575e-19, z: 1.7763568e-17}
+      rotation: {x: 0.0036963886, y: 0.0073255757, z: 0.00956025, w: 0.99992067}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RingFinger4_L
+      position: {x: 0.001023655, y: -3.8857806e-18, z: -1.1546319e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip_L
+      position: {x: 0.0009984472, y: -0.00041120112, z: 0.004098433}
+      rotation: {x: 0.9967566, y: -0.026148757, z: 0.013698135, w: 0.074865736}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HipPart1_L
+      position: {x: 0.008290207, y: 4.9960034e-18, z: -3.6637358e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HipPart2_L
+      position: {x: 0.008290207, y: 5.8286707e-18, z: -3.7747583e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Knee_L
+      position: {x: 0.008290207, y: 6.1062266e-18, z: -3.6637358e-17}
+      rotation: {x: 0, y: 0, z: 0.08303209, w: 0.99654686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ankle_L
+      position: {x: 0.019172166, y: 9.631185e-17, z: -2.8310687e-16}
+      rotation: {x: 0.100258164, y: -0.026069343, z: -0.038401764, w: 0.99387825}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Toes_L
+      position: {x: 0.0052681593, y: -0.006722512, z: -1.1879386e-16}
+      rotation: {x: -0.032416597, y: -0.04887383, z: -0.79149365, w: 0.60835713}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ToesEnd_L
+      position: {x: 0.005882693, y: 2.4980017e-18, z: 7.771561e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MotionSystem
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKSystem
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKParentConstraintToChest_M
+      position: {x: 3.284712e-18, y: 0.06494035, z: -0.0027252804}
+      rotation: {x: 0.5333664, y: -0.46424162, z: -0.5333664, w: 0.46424162}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetNeck_M
+      position: {x: -0.005838278, y: 1.5543122e-17, z: 2.1363033e-17}
+      rotation: {x: 0, y: -0, z: -0.030742735, w: 0.99952734}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraNeck_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKNeck_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXNeck_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetNeckPart1_M
+      position: {x: -0.0023394518, y: 1.7763568e-17, z: -3.057045e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraNeckPart1_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKNeckPart1_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXNeckPart1_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetNeckPart2_M
+      position: {x: -0.0023394518, y: 0, z: -4.8751647e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraNeckPart2_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKNeckPart2_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXNeckPart2_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetHead_M
+      position: {x: -0.0023394518, y: 4.440892e-18, z: -7.901796e-18}
+      rotation: {x: 0, y: 0, z: 0.015680406, w: 0.9998771}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKGlobalStaticHead_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKGlobalHead_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraHead_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKHead_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXHead_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKAimEye_L
+      position: {x: -0.006105044, y: 0.0018001128, z: 0.0017115059}
+      rotation: {x: 0, y: 1.049694e-16, z: -0.6450981, w: 0.7640998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetEye_L
+      position: {x: 1.6653345e-18, y: 0, z: 0}
+      rotation: {x: 0.00575942, y: -0.059005562, z: -0.096975535, w: 0.9935195}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraEye_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKEye_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKAimEye_R
+      position: {x: -0.006105044, y: 0.0018001128, z: -0.0017115059}
+      rotation: {x: -8.065669e-33, y: 1.399592e-16, z: -0.6450981, w: 0.7640998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetEye_R
+      position: {x: 2.7755575e-19, y: 0, z: 2.7755575e-19}
+      rotation: {x: -0.00575942, y: 0.059005562, z: -0.096975535, w: 0.9935195}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraEye_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKEye_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetJaw_M
+      position: {x: -0.0018564798, y: 0.0017410014, z: -1.5883934e-17}
+      rotation: {x: 0, y: -0, z: -0.6231668, w: 0.78208894}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraJaw_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKJaw_M
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetScapula_L
+      position: {x: -0.0065154787, y: 0.0010012412, z: 0.007580443}
+      rotation: {x: 0.7160758, y: 0.20526132, z: 0.65291774, w: -0.13711926}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraScapula_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKScapula_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetScapula_R
+      position: {x: -0.0065154787, y: 0.0010012412, z: -0.007580443}
+      rotation: {x: 0.20526132, y: -0.7160758, z: 0.13711926, w: 0.65291774}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraScapula_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKScapula_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKParentConstraintToWrist_L
+      position: {x: -0.03438152, y: 0.07041231, z: 0.001972834}
+      rotation: {x: 0.11734028, y: -0.69726217, z: 0.70625395, w: 0.03552676}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetCup_L
+      position: {x: 0.0012315034, y: 0.001017744, z: 0.000100902216}
+      rotation: {x: -0.00009193942, y: 0.001815618, z: -0.050573204, w: 0.9987187}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKCup_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraCup_L
+      position: {x: -0, y: -1.110223e-18, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKCup_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXCup_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetPinkyFinger1_L
+      position: {x: 0.004031028, y: 0.0016071124, z: 0.00024118528}
+      rotation: {x: 0.012359108, y: -0.03672467, z: 0.12894435, w: 0.9908945}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKPinkyFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK2FKPinkyFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraPinkyFinger1_L
+      position: {x: -0, y: 2.428613e-19, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKPinkyFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXPinkyFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetPinkyFinger2_L
+      position: {x: 0.0009844427, y: -1.6167622e-17, z: 7.9936054e-17}
+      rotation: {x: 0.01657797, y: -0.03338134, z: 0.016358072, w: 0.9991713}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKPinkyFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraPinkyFinger2_L
+      position: {x: 4.440892e-18, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKPinkyFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXPinkyFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetPinkyFinger3_L
+      position: {x: 0.0011470049, y: -5.551115e-19, z: 0}
+      rotation: {x: 0.016664108, y: 0.008460215, z: -0.022966145, w: 0.99956155}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKPinkyFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraPinkyFinger3_L
+      position: {x: -0, y: -1.110223e-18, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKPinkyFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetRingFinger1_L
+      position: {x: 0.0048638005, y: 0.0005265079, z: 0.00008340922}
+      rotation: {x: 0.0096479505, y: -0.01704298, z: 0.16580282, w: 0.9859645}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKRingFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK2FKRingFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraRingFinger1_L
+      position: {x: 8.881784e-18, y: -1.110223e-18, z: 3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKRingFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXRingFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetRingFinger2_L
+      position: {x: 0.0011026517, y: -1.2212453e-17, z: 2.0428103e-16}
+      rotation: {x: 0.002146443, y: -0.0311533, z: -0.03261278, w: 0.99898016}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKRingFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraRingFinger2_L
+      position: {x: -0, y: -5.551115e-19, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKRingFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXRingFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetRingFinger3_L
+      position: {x: 0.0011326452, y: -5.551115e-19, z: 2.6645352e-17}
+      rotation: {x: 0.0036963886, y: 0.0073255757, z: 0.00956025, w: 0.99992067}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKRingFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraRingFinger3_L
+      position: {x: 4.440892e-18, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKRingFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetIndexFinger1_L
+      position: {x: 0.005436111, y: -0.0011232138, z: -0.00017340225}
+      rotation: {x: -0.009705935, y: -0.09275839, z: -0.040448047, w: 0.9948194}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKIndexFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK2FKIndexFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraIndexFinger1_L
+      position: {x: 4.440892e-18, y: 0, z: -1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKIndexFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXIndexFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetIndexFinger2_L
+      position: {x: 0.001125423, y: 3.4416914e-17, z: 1.0658141e-16}
+      rotation: {x: -0.0008986642, y: 0.022868372, z: -0.016124062, w: 0.99960804}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKIndexFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraIndexFinger2_L
+      position: {x: -4.440892e-18, y: -1.110223e-18, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKIndexFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXIndexFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetIndexFinger3_L
+      position: {x: 0.0012667184, y: -2.5535128e-17, z: -1.2434498e-16}
+      rotation: {x: -0.014379366, y: 0.015970733, z: 0.027270896, w: 0.9993971}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKIndexFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraIndexFinger3_L
+      position: {x: -4.440892e-18, y: -1.110223e-18, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKIndexFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetMiddleFinger1_L
+      position: {x: 0.00604253, y: -3.7747583e-17, z: -1.5099033e-16}
+      rotation: {x: 0.0048125302, y: -0.019813487, z: 0.0049769343, w: 0.99977976}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKMiddleFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraMiddleFinger1_L
+      position: {x: 4.440892e-18, y: -5.551115e-19, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKMiddleFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXMiddleFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetMiddleFinger2_L
+      position: {x: 0.0012753292, y: -8.881784e-18, z: 1.0658141e-16}
+      rotation: {x: 0.013170191, y: -0.047536712, z: -0.04227372, w: 0.9978877}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKMiddleFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraMiddleFinger2_L
+      position: {x: 4.440892e-18, y: 5.551115e-19, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKMiddleFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXMiddleFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetMiddleFinger3_L
+      position: {x: 0.0013429997, y: 2.942091e-17, z: 0}
+      rotation: {x: -0.003224809, y: 0.014871432, z: 0.0626809, w: 0.9979176}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKMiddleFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraMiddleFinger3_L
+      position: {x: 8.881784e-18, y: 1.040834e-18, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKMiddleFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetThumbFinger1_L
+      position: {x: 0.0035391508, y: -0.0020277158, z: 0.0005504232}
+      rotation: {x: -0.4603425, y: 0.037894852, z: -0.37205657, w: 0.80512285}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraThumbFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKThumbFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXThumbFinger1_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetThumbFinger2_L
+      position: {x: 0.00096817233, y: 5.3290704e-17, z: 3.9968027e-17}
+      rotation: {x: 0.0016399096, y: -0.009191062, z: 0.017155247, w: 0.99980927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKThumbFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraThumbFinger2_L
+      position: {x: 1.6653345e-18, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKThumbFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXThumbFinger2_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetThumbFinger3_L
+      position: {x: 0.001061024, y: 7.9936054e-17, z: -5.7731595e-17}
+      rotation: {x: -0.00035539287, y: 0.0026413896, z: 0.025662107, w: 0.9996671}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKThumbFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraThumbFinger3_L
+      position: {x: -0, y: -8.881784e-18, z: -4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKThumbFinger3_L
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKParentConstraintToWrist_R
+      position: {x: 0.03438152, y: 0.07041231, z: 0.001972834}
+      rotation: {x: -0.03552676, y: 0.70625395, z: 0.69726217, w: 0.11734028}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetCup_R
+      position: {x: -0.0012315034, y: -0.001017744, z: -0.000100902216}
+      rotation: {x: -0.00009193942, y: 0.001815618, z: -0.050573204, w: 0.9987187}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKCup_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraCup_R
+      position: {x: 4.440892e-18, y: 0, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKCup_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXCup_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetPinkyFinger1_R
+      position: {x: -0.004031028, y: -0.0016071124, z: -0.00024118528}
+      rotation: {x: 0.012359108, y: -0.03672467, z: 0.12894435, w: 0.9908945}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKPinkyFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK2FKPinkyFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraPinkyFinger1_R
+      position: {x: 4.440892e-18, y: -3.122502e-19, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKPinkyFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXPinkyFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetPinkyFinger2_R
+      position: {x: -0.0009844427, y: -1.4918621e-17, z: 8.881784e-18}
+      rotation: {x: 0.01657797, y: -0.03338134, z: 0.016358072, w: 0.9991713}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKPinkyFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraPinkyFinger2_R
+      position: {x: -0, y: 0, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKPinkyFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXPinkyFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetPinkyFinger3_R
+      position: {x: -0.0011470049, y: 7.216449e-18, z: 4.4408918e-17}
+      rotation: {x: 0.016664108, y: 0.008460215, z: -0.022966145, w: 0.99956155}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKPinkyFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraPinkyFinger3_R
+      position: {x: -4.440892e-18, y: 1.110223e-18, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKPinkyFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetRingFinger1_R
+      position: {x: -0.0048638005, y: -0.0005265079, z: -0.00008340922}
+      rotation: {x: 0.0096479505, y: -0.01704298, z: 0.16580282, w: 0.9859645}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKRingFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK2FKRingFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraRingFinger1_R
+      position: {x: 4.440892e-18, y: 1.110223e-18, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKRingFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXRingFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetRingFinger2_R
+      position: {x: -0.0011026517, y: -4.9960034e-18, z: -1.4210854e-16}
+      rotation: {x: 0.002146443, y: -0.0311533, z: -0.03261278, w: 0.99898016}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKRingFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraRingFinger2_R
+      position: {x: -8.881784e-18, y: 8.3266725e-19, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKRingFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXRingFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetRingFinger3_R
+      position: {x: -0.0011326452, y: -4.440892e-18, z: 4.4408918e-17}
+      rotation: {x: 0.0036963886, y: 0.0073255757, z: 0.00956025, w: 0.99992067}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKRingFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraRingFinger3_R
+      position: {x: -8.881784e-18, y: 1.110223e-18, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKRingFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetIndexFinger1_R
+      position: {x: -0.005436111, y: 0.0011232138, z: 0.00017340225}
+      rotation: {x: -0.009705935, y: -0.09275839, z: -0.040448047, w: 0.9948194}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKIndexFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK2FKIndexFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraIndexFinger1_R
+      position: {x: -1.11022296e-17, y: -2.220446e-18, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKIndexFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXIndexFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetIndexFinger2_R
+      position: {x: -0.001125423, y: 7.771561e-18, z: 4.4408918e-17}
+      rotation: {x: -0.0008986642, y: 0.022868372, z: -0.016124062, w: 0.99960804}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKIndexFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraIndexFinger2_R
+      position: {x: -0, y: 0, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKIndexFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXIndexFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetIndexFinger3_R
+      position: {x: -0.0012667184, y: -2.3314683e-17, z: 0}
+      rotation: {x: -0.014379366, y: 0.015970733, z: 0.027270896, w: 0.9993971}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKIndexFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraIndexFinger3_R
+      position: {x: 4.440892e-18, y: 0, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKIndexFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetMiddleFinger1_R
+      position: {x: -0.00604253, y: -1.9984014e-17, z: 4.4408918e-17}
+      rotation: {x: 0.0048125302, y: -0.019813487, z: 0.0049769343, w: 0.99977976}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKMiddleFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraMiddleFinger1_R
+      position: {x: -4.440892e-18, y: -2.220446e-18, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKMiddleFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXMiddleFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetMiddleFinger2_R
+      position: {x: -0.0012753292, y: 0, z: -1.7763568e-17}
+      rotation: {x: 0.013170191, y: -0.047536712, z: -0.04227372, w: 0.9978877}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKMiddleFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraMiddleFinger2_R
+      position: {x: -0, y: 2.220446e-18, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKMiddleFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXMiddleFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetMiddleFinger3_R
+      position: {x: -0.0013429997, y: 7.771561e-18, z: -1.5987211e-16}
+      rotation: {x: -0.003224809, y: 0.014871432, z: 0.0626809, w: 0.9979176}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKMiddleFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraMiddleFinger3_R
+      position: {x: -0, y: -8.3266725e-19, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKMiddleFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetThumbFinger1_R
+      position: {x: -0.0035391508, y: 0.0020277158, z: -0.0005504232}
+      rotation: {x: -0.4603425, y: 0.037894852, z: -0.37205657, w: 0.80512285}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraThumbFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKThumbFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXThumbFinger1_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetThumbFinger2_R
+      position: {x: -0.00096817233, y: -1.7763568e-17, z: 4.440892e-18}
+      rotation: {x: 0.0016399096, y: -0.009191062, z: 0.017155247, w: 0.99980927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKThumbFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraThumbFinger2_R
+      position: {x: -6.1062266e-18, y: 0, z: -4.440892e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKThumbFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKXThumbFinger2_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKOffsetThumbFinger3_R
+      position: {x: -0.001061024, y: -5.3290704e-17, z: -1.7763568e-17}
+      rotation: {x: -0.00035539287, y: 0.0026413896, z: 0.025662107, w: 0.9996671}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SDK1FKThumbFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKExtraThumbFinger3_R
+      position: {x: 5.5511148e-18, y: 0, z: 8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FKThumbFinger3_R
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: kouxing
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__kouxing
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 2c7b4ac8e43fc84418b00db08af3d762,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

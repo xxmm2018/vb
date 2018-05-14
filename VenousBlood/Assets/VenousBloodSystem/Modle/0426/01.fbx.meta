@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 484f57b14567a3340a61299bc159dee9
+timeCreated: 1524713191
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: baohuke
+    100004: baozhen2
+    100006: beizi
+    100008: beizi 1
+    100010: Box001
+    100012: Box002
+    100014: Box003
+    100016: Box004
+    100018: Box005
+    100020: Box006
+    100022: Box007
+    100024: Box008
+    100026: Box009
+    100028: Box010
+    100030: chengse
+    100032: chouti
+    100034: chouti1
+    100036: chouti2
+    100038: chouti3
+    100040: chouti4
+    100042: chouti5
+    100044: Cylinder002
+    100046: Cylinder003
+    100048: Cylinder004
+    100050: Cylinder006
+    100052: Cylinder007
+    100054: Cylinder008
+    100056: Cylinder009
+    100058: Cylinder011
+    100060: Cylinder012
+    100062: Cylinder013
+    100064: Cylinder014
+    100066: Cylinder015
+    100068: dell
+    100070: dianjiuping
+    100072: diannao
+    100074: guizi
+    100076: guizi 1
+    100078: gunlun
+    100080: gunlun 1
+    100082: gunlun1
+    100084: gunlun2
+    100086: gunlun3
+    100088: heise
+    100090: hongse
+    100092: houtuo
+    100094: jiandao
+    100096: jianpan1
+    100098: lanse
+    100100: lvse
+    100102: mianqian
+    100104: pasted__chouti
+    100106: pasted__chouti1
+    100108: pasted__chouti1 1
+    100110: pasted__chouti2
+    100112: pasted__chouti2 1
+    100114: pasted__Cylinder009
+    100116: pasted__DELL
+    100118: pasted__DELL1
+    100120: pasted__DELL1 1
+    100122: pasted__dianyuan
+    100124: pasted__houtuo
+    100126: pasted__jianpan
+    100128: pasted__nurbsToPoly1
+    100130: pasted__nurbsToPoly2
+    100132: pasted__nurbsToPoly3
+    100134: pasted__pCube144
+    100136: pasted__pCube144 1
+    100138: pasted__pCube145
+    100140: pasted__pCube145 1
+    100142: pasted__pCube146
+    100144: pasted__pCube146 1
+    100146: pasted__pCube147
+    100148: pasted__pCube147 1
+    100150: pasted__pCube148
+    100152: pasted__pCube148 1
+    100154: pasted__pCube149
+    100156: pasted__pCube150
+    100158: pasted__pCube150 1
+    100160: pasted__pCube151
+    100162: pasted__pCube151 1
+    100164: pasted__pCube154
+    100166: pasted__pCube155
+    100168: pasted__pCube156
+    100170: pasted__pCube157
+    100172: pasted__pCube157 1
+    100174: pasted__pCube157 2
+    100176: pasted__pCube157 3
+    100178: pasted__pCube158
+    100180: pasted__pCylinder12
+    100182: pasted__pCylinder12 1
+    100184: pasted__pCylinder13
+    100186: pasted__pCylinder13 1
+    100188: pasted__pCylinder14
+    100190: pasted__pCylinder14 1
+    100192: pasted__pCylinder15
+    100194: pasted__pCylinder15 1
+    100196: pasted__pCylinder16
+    100198: pasted__pCylinder16 1
+    100200: pasted__pCylinder17
+    100202: pasted__pCylinder17 1
+    100204: pasted__pCylinder18
+    100206: pasted__pCylinder18 1
+    100208: pasted__pCylinder19
+    100210: pasted__pCylinder19 1
+    100212: pasted__pCylinder20
+    100214: pasted__pCylinder20 1
+    100216: pasted__pCylinder21
+    100218: pasted__pCylinder21 1
+    100220: pasted__pCylinder21 2
+    100222: pasted__pCylinder21 3
+    100224: pasted__pCylinder22
+    100226: pasted__pCylinder23
+    100228: pasted__pCylinder4
+    100230: pasted__pCylinder5
+    100232: pasted__pCylinder6
+    100234: pasted__pCylinder7
+    100236: pasted__pCylinder8
+    100238: pasted__pCylinder9
+    100240: pasted__polySurface1
+    100242: pasted__polySurface3
+    100244: pasted__polySurface5
+    100246: pasted__polySurface6
+    100248: pasted__xianshiping
+    100250: polySurface2
+    100252: polySurface3
+    100254: polySurface5
+    100256: polySurface6
+    100258: shaobei
+    100260: shubiao
+    100262: shubiao 1
+    100264: transform1
+    100266: transform10
+    100268: transform11
+    100270: transform12
+    100272: transform13
+    100274: transform14
+    100276: transform15
+    100278: transform16
+    100280: transform17
+    100282: transform18
+    100284: transform19
+    100286: transform2
+    100288: transform20
+    100290: transform21
+    100292: transform22
+    100294: transform23
+    100296: transform24
+    100298: transform25
+    100300: transform26
+    100302: transform27
+    100304: transform28
+    100306: transform29
+    100308: transform30
+    100310: transform31
+    100312: transform32
+    100314: transform33
+    100316: transform34
+    100318: transform35
+    100320: transform36
+    100322: transform37
+    100324: transform38
+    100326: transform39
+    100328: transform40
+    100330: transform41
+    100332: transform42
+    100334: transform43
+    100336: transform44
+    100338: transform45
+    100340: transform46
+    100342: transform8
+    100344: transform9
+    100346: Tube001
+    100348: Tube002
+    100350: Tube003
+    100352: tui
+    100354: xianshiping
+    100356: xiaodupan
+    100358: yamaidai
+    100360: yizi1
+    100362: yizi5
+    100364: yizi6
+    100366: zhen
+    100368: zhen 1
+    100370: zhentao
+    100372: zhentao1
+    100374: zhentou
+    100376: zhoucehng
+    100378: zhoucehng 1
+    100380: zhuji
+    100382: zhuji 1
+    100384: zhuji 2
+    100386: zhuoyi
+    100388: zhuoyi1
+    100390: zhuozi
+    100392: zhuozi 1
+    100394: zhusheqi
+    100396: zhusheqi 1
+    100398: zise
+    400000: //RootNode
+    400002: baohuke
+    400004: baozhen2
+    400006: beizi
+    400008: beizi 1
+    400010: Box001
+    400012: Box002
+    400014: Box003
+    400016: Box004
+    400018: Box005
+    400020: Box006
+    400022: Box007
+    400024: Box008
+    400026: Box009
+    400028: Box010
+    400030: chengse
+    400032: chouti
+    400034: chouti1
+    400036: chouti2
+    400038: chouti3
+    400040: chouti4
+    400042: chouti5
+    400044: Cylinder002
+    400046: Cylinder003
+    400048: Cylinder004
+    400050: Cylinder006
+    400052: Cylinder007
+    400054: Cylinder008
+    400056: Cylinder009
+    400058: Cylinder011
+    400060: Cylinder012
+    400062: Cylinder013
+    400064: Cylinder014
+    400066: Cylinder015
+    400068: dell
+    400070: dianjiuping
+    400072: diannao
+    400074: guizi
+    400076: guizi 1
+    400078: gunlun
+    400080: gunlun 1
+    400082: gunlun1
+    400084: gunlun2
+    400086: gunlun3
+    400088: heise
+    400090: hongse
+    400092: houtuo
+    400094: jiandao
+    400096: jianpan1
+    400098: lanse
+    400100: lvse
+    400102: mianqian
+    400104: pasted__chouti
+    400106: pasted__chouti1
+    400108: pasted__chouti1 1
+    400110: pasted__chouti2
+    400112: pasted__chouti2 1
+    400114: pasted__Cylinder009
+    400116: pasted__DELL
+    400118: pasted__DELL1
+    400120: pasted__DELL1 1
+    400122: pasted__dianyuan
+    400124: pasted__houtuo
+    400126: pasted__jianpan
+    400128: pasted__nurbsToPoly1
+    400130: pasted__nurbsToPoly2
+    400132: pasted__nurbsToPoly3
+    400134: pasted__pCube144
+    400136: pasted__pCube144 1
+    400138: pasted__pCube145
+    400140: pasted__pCube145 1
+    400142: pasted__pCube146
+    400144: pasted__pCube146 1
+    400146: pasted__pCube147
+    400148: pasted__pCube147 1
+    400150: pasted__pCube148
+    400152: pasted__pCube148 1
+    400154: pasted__pCube149
+    400156: pasted__pCube150
+    400158: pasted__pCube150 1
+    400160: pasted__pCube151
+    400162: pasted__pCube151 1
+    400164: pasted__pCube154
+    400166: pasted__pCube155
+    400168: pasted__pCube156
+    400170: pasted__pCube157
+    400172: pasted__pCube157 1
+    400174: pasted__pCube157 2
+    400176: pasted__pCube157 3
+    400178: pasted__pCube158
+    400180: pasted__pCylinder12
+    400182: pasted__pCylinder12 1
+    400184: pasted__pCylinder13
+    400186: pasted__pCylinder13 1
+    400188: pasted__pCylinder14
+    400190: pasted__pCylinder14 1
+    400192: pasted__pCylinder15
+    400194: pasted__pCylinder15 1
+    400196: pasted__pCylinder16
+    400198: pasted__pCylinder16 1
+    400200: pasted__pCylinder17
+    400202: pasted__pCylinder17 1
+    400204: pasted__pCylinder18
+    400206: pasted__pCylinder18 1
+    400208: pasted__pCylinder19
+    400210: pasted__pCylinder19 1
+    400212: pasted__pCylinder20
+    400214: pasted__pCylinder20 1
+    400216: pasted__pCylinder21
+    400218: pasted__pCylinder21 1
+    400220: pasted__pCylinder21 2
+    400222: pasted__pCylinder21 3
+    400224: pasted__pCylinder22
+    400226: pasted__pCylinder23
+    400228: pasted__pCylinder4
+    400230: pasted__pCylinder5
+    400232: pasted__pCylinder6
+    400234: pasted__pCylinder7
+    400236: pasted__pCylinder8
+    400238: pasted__pCylinder9
+    400240: pasted__polySurface1
+    400242: pasted__polySurface3
+    400244: pasted__polySurface5
+    400246: pasted__polySurface6
+    400248: pasted__xianshiping
+    400250: polySurface2
+    400252: polySurface3
+    400254: polySurface5
+    400256: polySurface6
+    400258: shaobei
+    400260: shubiao
+    400262: shubiao 1
+    400264: transform1
+    400266: transform10
+    400268: transform11
+    400270: transform12
+    400272: transform13
+    400274: transform14
+    400276: transform15
+    400278: transform16
+    400280: transform17
+    400282: transform18
+    400284: transform19
+    400286: transform2
+    400288: transform20
+    400290: transform21
+    400292: transform22
+    400294: transform23
+    400296: transform24
+    400298: transform25
+    400300: transform26
+    400302: transform27
+    400304: transform28
+    400306: transform29
+    400308: transform30
+    400310: transform31
+    400312: transform32
+    400314: transform33
+    400316: transform34
+    400318: transform35
+    400320: transform36
+    400322: transform37
+    400324: transform38
+    400326: transform39
+    400328: transform40
+    400330: transform41
+    400332: transform42
+    400334: transform43
+    400336: transform44
+    400338: transform45
+    400340: transform46
+    400342: transform8
+    400344: transform9
+    400346: Tube001
+    400348: Tube002
+    400350: Tube003
+    400352: tui
+    400354: xianshiping
+    400356: xiaodupan
+    400358: yamaidai
+    400360: yizi1
+    400362: yizi5
+    400364: yizi6
+    400366: zhen
+    400368: zhen 1
+    400370: zhentao
+    400372: zhentao1
+    400374: zhentou
+    400376: zhoucehng
+    400378: zhoucehng 1
+    400380: zhuji
+    400382: zhuji 1
+    400384: zhuji 2
+    400386: zhuoyi
+    400388: zhuoyi1
+    400390: zhuozi
+    400392: zhuozi 1
+    400394: zhusheqi
+    400396: zhusheqi 1
+    400398: zise
+    2300000: baohuke
+    2300002: baozhen2
+    2300004: chengse
+    2300006: chouti
+    2300008: chouti1
+    2300010: chouti2
+    2300012: chouti3
+    2300014: chouti4
+    2300016: chouti5
+    2300018: dell
+    2300020: dianjiuping
+    2300022: gunlun
+    2300024: heise
+    2300026: hongse
+    2300028: houtuo
+    2300030: jianpan1
+    2300032: lanse
+    2300034: lvse
+    2300036: mianqian
+    2300038: pasted__nurbsToPoly1
+    2300040: pasted__nurbsToPoly2
+    2300042: pasted__nurbsToPoly3
+    2300044: pasted__pCube144
+    2300046: pasted__pCube144 1
+    2300048: pasted__pCube145
+    2300050: pasted__pCube145 1
+    2300052: pasted__pCube146
+    2300054: pasted__pCube146 1
+    2300056: pasted__pCube147
+    2300058: pasted__pCube147 1
+    2300060: pasted__pCube148
+    2300062: pasted__pCube148 1
+    2300064: pasted__pCube157
+    2300066: pasted__pCube157 1
+    2300068: pasted__pCube157 2
+    2300070: pasted__pCube157 3
+    2300072: pasted__pCube158
+    2300074: pasted__pCylinder12
+    2300076: pasted__pCylinder12 1
+    2300078: pasted__pCylinder13
+    2300080: pasted__pCylinder13 1
+    2300082: pasted__pCylinder14
+    2300084: pasted__pCylinder14 1
+    2300086: pasted__pCylinder15
+    2300088: pasted__pCylinder15 1
+    2300090: pasted__pCylinder16
+    2300092: pasted__pCylinder16 1
+    2300094: pasted__pCylinder17
+    2300096: pasted__pCylinder17 1
+    2300098: pasted__pCylinder18
+    2300100: pasted__pCylinder18 1
+    2300102: pasted__pCylinder19
+    2300104: pasted__pCylinder19 1
+    2300106: pasted__pCylinder20
+    2300108: pasted__pCylinder20 1
+    2300110: pasted__pCylinder21
+    2300112: pasted__pCylinder21 1
+    2300114: pasted__pCylinder21 2
+    2300116: pasted__pCylinder21 3
+    2300118: pasted__pCylinder22
+    2300120: pasted__pCylinder4
+    2300122: pasted__pCylinder5
+    2300124: pasted__pCylinder6
+    2300126: pasted__pCylinder7
+    2300128: pasted__pCylinder8
+    2300130: polySurface2
+    2300132: polySurface3
+    2300134: polySurface5
+    2300136: polySurface6
+    2300138: shaobei
+    2300140: tui
+    2300142: xianshiping
+    2300144: xiaodupan
+    2300146: yamaidai
+    2300148: yizi5
+    2300150: yizi6
+    2300152: zhen
+    2300154: zhen 1
+    2300156: zhentao
+    2300158: zhentao1
+    2300160: zhentou
+    2300162: zhuji
+    2300164: zhusheqi 1
+    2300166: zise
+    3300000: baohuke
+    3300002: baozhen2
+    3300004: chengse
+    3300006: chouti
+    3300008: chouti1
+    3300010: chouti2
+    3300012: chouti3
+    3300014: chouti4
+    3300016: chouti5
+    3300018: dell
+    3300020: dianjiuping
+    3300022: gunlun
+    3300024: heise
+    3300026: hongse
+    3300028: houtuo
+    3300030: jianpan1
+    3300032: lanse
+    3300034: lvse
+    3300036: mianqian
+    3300038: pasted__nurbsToPoly1
+    3300040: pasted__nurbsToPoly2
+    3300042: pasted__nurbsToPoly3
+    3300044: pasted__pCube144
+    3300046: pasted__pCube144 1
+    3300048: pasted__pCube145
+    3300050: pasted__pCube145 1
+    3300052: pasted__pCube146
+    3300054: pasted__pCube146 1
+    3300056: pasted__pCube147
+    3300058: pasted__pCube147 1
+    3300060: pasted__pCube148
+    3300062: pasted__pCube148 1
+    3300064: pasted__pCube157
+    3300066: pasted__pCube157 1
+    3300068: pasted__pCube157 2
+    3300070: pasted__pCube157 3
+    3300072: pasted__pCube158
+    3300074: pasted__pCylinder12
+    3300076: pasted__pCylinder12 1
+    3300078: pasted__pCylinder13
+    3300080: pasted__pCylinder13 1
+    3300082: pasted__pCylinder14
+    3300084: pasted__pCylinder14 1
+    3300086: pasted__pCylinder15
+    3300088: pasted__pCylinder15 1
+    3300090: pasted__pCylinder16
+    3300092: pasted__pCylinder16 1
+    3300094: pasted__pCylinder17
+    3300096: pasted__pCylinder17 1
+    3300098: pasted__pCylinder18
+    3300100: pasted__pCylinder18 1
+    3300102: pasted__pCylinder19
+    3300104: pasted__pCylinder19 1
+    3300106: pasted__pCylinder20
+    3300108: pasted__pCylinder20 1
+    3300110: pasted__pCylinder21
+    3300112: pasted__pCylinder21 1
+    3300114: pasted__pCylinder21 2
+    3300116: pasted__pCylinder21 3
+    3300118: pasted__pCylinder22
+    3300120: pasted__pCylinder4
+    3300122: pasted__pCylinder5
+    3300124: pasted__pCylinder6
+    3300126: pasted__pCylinder7
+    3300128: pasted__pCylinder8
+    3300130: polySurface2
+    3300132: polySurface3
+    3300134: polySurface5
+    3300136: polySurface6
+    3300138: shaobei
+    3300140: tui
+    3300142: xianshiping
+    3300144: xiaodupan
+    3300146: yamaidai
+    3300148: yizi5
+    3300150: yizi6
+    3300152: zhen
+    3300154: zhen 1
+    3300156: zhentao
+    3300158: zhentao1
+    3300160: zhentou
+    3300162: zhuji
+    3300164: zhusheqi 1
+    3300166: zise
+    4300000: xiaodupan
+    4300002: yamaidai
+    4300004: baozhen2
+    4300006: pasted__pCylinder20
+    4300008: pasted__pCylinder19
+    4300010: pasted__pCylinder18
+    4300012: pasted__pCylinder17
+    4300014: pasted__pCylinder16
+    4300016: pasted__pCylinder15
+    4300018: pasted__pCylinder14
+    4300020: pasted__pCylinder13
+    4300022: pasted__pCylinder12
+    4300024: pasted__pCube157
+    4300026: pasted__pCylinder21
+    4300028: pasted__pCube157
+    4300030: pasted__pCylinder21
+    4300032: pasted__pCube157
+    4300034: pasted__pCylinder21
+    4300036: pasted__pCube157
+    4300038: pasted__pCylinder21
+    4300040: pasted__pCube148
+    4300042: pasted__pCube145
+    4300044: pasted__pCube144
+    4300046: pasted__pCube146
+    4300048: pasted__pCube147
+    4300050: pasted__pCube158
+    4300052: pasted__pCylinder22
+    4300054: pasted__nurbsToPoly3
+    4300056: pasted__pCylinder20
+    4300058: pasted__pCylinder19
+    4300060: pasted__pCylinder18
+    4300062: pasted__pCylinder17
+    4300064: pasted__pCylinder16
+    4300066: pasted__pCylinder15
+    4300068: pasted__pCylinder14
+    4300070: pasted__pCylinder13
+    4300072: pasted__pCylinder12
+    4300074: pasted__pCube148
+    4300076: pasted__pCube145
+    4300078: pasted__pCube144
+    4300080: pasted__pCube146
+    4300082: pasted__pCube147
+    4300084: jianpan1
+    4300086: pasted__pCylinder8
+    4300088: pasted__pCylinder7
+    4300090: pasted__pCylinder6
+    4300092: pasted__pCylinder5
+    4300094: pasted__pCylinder4
+    4300096: pasted__nurbsToPoly1
+    4300098: pasted__nurbsToPoly2
+    4300100: lvse
+    4300102: lanse
+    4300104: heise
+    4300106: hongse
+    4300108: chengse
+    4300110: zise
+    4300112: zhen
+    4300114: dianjiuping
+    4300116: zhentao
+    4300118: zhentao1
+    4300120: polySurface2
+    4300122: polySurface3
+    4300124: polySurface5
+    4300126: polySurface6
+    4300128: zhentou
+    4300130: zhen
+    4300132: baohuke
+    4300134: tui
+    4300136: zhusheqi
+    4300138: shaobei
+    4300140: mianqian
+    4300142: zhuji
+    4300144: dell
+    4300146: xianshiping
+    4300148: houtuo
+    4300150: chouti
+    4300152: chouti1
+    4300154: chouti2
+    4300156: gunlun
+    4300158: yizi5
+    4300160: yizi6
+    4300162: chouti3
+    4300164: chouti4
+    4300166: chouti5
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
